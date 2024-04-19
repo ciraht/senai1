@@ -2,11 +2,19 @@
     width: 300px;
     height: 84px;
 }
+h3 {
+    color: white;
+    background-color: rgb(172, 0, 0);
+}
 .inicio {
-    background-image: url(../img/senaizika.png);
+    background-image: url(../img/comunicacao.png);
     background-size: cover;
     background-position: center;
 }
+ul, ol, li {
+    list-style: none;
+}
+
 .btn{
     background-color: #BB4848;
     margin: 0 15px;
@@ -53,31 +61,41 @@ h2 {
     font-size: 3em;
     letter-spacing: 6px;
 }
+footer{
+    margin: 0px;
+}
 
 
-/* .secao-contato {
-    background-image: ;
-} */
+
 .secao-pesquisar-unidades {
     background-color: rgba(230,230,230,255);
-    height: 400px;
+    height: 840px;
+    margin: 0px;
 }
 .pesquisar-unidades {
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(255,255,255,255);
-    margin-bottom: 12px;
+    margin-bottom: 0px;
     margin-top: 12px;
     border: 10px;
     border-color: black;
     padding-left: 30px;
-    padding-bottom: 13px;
+    padding-bottom: 10px;
+}
+.botao-pesquisa {
+    background-color: #BB4848;
+    color: white;
+}
+.botao-pesquisa:hover {
+    color: #F47D7D;
 }
 .lupa-pesquisa {
     height: 23px;
     width: 23px;
 }
 .bloco-unidade {
+    text-align: center;
     background-color: white;
     border-radius: 10px 10px 10px 10px;
     border-color: white;
@@ -91,6 +109,10 @@ h2 {
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 35%;
 }
 .subtitulo-bloco {
     font-size: 15px;
@@ -101,6 +123,20 @@ h2 {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
+}
+.secao-contatoextra {
+    text-align: center;
+    background-color: #BB4848;
+    color: white;
+}
+.botao-acessar {
+    text-align: center;
+    background-color: #BB4848;
+    color: white;
+    margin-left: 47%;
+}
+.botao-acessar:hover {
+    color: #F47D7D;
 }
 
 
@@ -128,6 +164,7 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     letter-spacing: 3px;
+    text-align: center;
 }
 .data {
     font-family: Arial, Helvetica, sans-serif;
