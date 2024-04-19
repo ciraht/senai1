@@ -4,6 +4,7 @@
 }
 h3 {
     color: white;
+    background-color: rgb(172, 0, 0);
 }
 .inicio {
     background-image: url(../img/comunicacao.png);
@@ -124,20 +125,15 @@ footer{
     font-weight: lighter;
 }
 .secao-contatoextra {
-    padding-top: 20px;
     text-align: center;
-    background-color: rgb(172, 0, 0);
+    background-color: #BB4848;
     color: white;
 }
 .botao-acessar {
     text-align: center;
     background-color: #BB4848;
     color: white;
-    margin-left: 0%;
-    border-color: rgba(255, 255, 255, 0);
-    border-radius: 10px 10px 10px 10px;
-    padding: 7px;
-    margin-bottom: 5px;
+    margin-left: 47%;
 }
 .botao-acessar:hover {
     color: #F47D7D;
