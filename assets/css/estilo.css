@@ -35,3 +35,13 @@ h1 {
     color: white;
     letter-spacing: 4px;   
 }
+.inicio {
+    background-image: url(../img/trabaio.png);
+    background-size: cover;
+    background-position: center;
+}
+.eu {
+    width: 304px;
+    height: 304px;
+    margin: 0 45px;
+}
