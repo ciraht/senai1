@@ -1,0 +1,37 @@
+.senai {
+    width: 300px;
+    height: 84px;
+}
+.btn{
+    background-color: #BB4848;
+    margin: 0 15px;
+    color: white;
+    font-size: 1em;
+    width: 130px;
+    height: 54px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+    border-color: #BB4848;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+}
+.btn:hover {
+    background-color: #F47D7D;
+    border-color: #F47D7D;
+}
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    font-size: 3em;
+    font-weight: 700;
+}
+.logo2 {
+    width: 324px;
+    height: 84px;
+}
+.fim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 4px;   
+}

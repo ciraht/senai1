@@ -1,0 +1,88 @@
+.senai {
+    width: 300px;
+    height: 84px;
+}
+.btn{
+    background-color: #BB4848;
+    margin: 0 15px;
+    color: white;
+    font-size: 1em;
+    width: 130px;
+    height: 54px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+    border-color: #BB4848;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+}
+.btn:hover {
+    background-color: #F47D7D;
+    border-color: #F47D7D;
+}
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    font-size: 3em;
+    font-weight: 700;
+}
+.saiba {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    font-weight: bold;
+    font-size: 1em;
+    width: 264px;
+    height: 40px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+}
+.eu {
+    width: 304px;
+    height: 304px;
+    margin: 0 45px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    letter-spacing: 6px;
+}
+.homem {
+    width: 391px;
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0px;
+}
+.margem {
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: 40px;
+    width: 391px;
+    height: 350px;
+    margin-left: 23em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.03);
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.data {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+.logo2 {
+    width: 324px;
+    height: 84px;
+}
+.fim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 4px;   
+}
