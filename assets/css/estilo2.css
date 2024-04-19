@@ -84,7 +84,7 @@ footer{
     padding-bottom: 10px;
 }
 .botao-pesquisa {
-    background-color: #BB4848;
+    background-color: rgb(172, 0, 0);
     color: white;
 }
 .botao-pesquisa:hover {
@@ -127,12 +127,12 @@ footer{
 .secao-contatoextra {
     padding-top: 20px;
     text-align: center;
-    background-color: #8CCA22;
+    background-color: rgb(172, 0, 0);
     color: white;
 }
 .botao-acessar {
     text-align: center;
-    background-color: #9CF500;
+    background-color: #BB4848;
     color: white;
     margin-left: 0%;
     border-color: rgba(255, 255, 255, 0);
