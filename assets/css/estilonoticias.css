@@ -1,0 +1,80 @@
+.senai {
+    width: 300px;
+    height: 84px;
+}
+.btn{
+    background-color: #BB4848;
+    margin: 0 15px;
+    color: white;
+    font-size: 1em;
+    width: 130px;
+    height: 54px;
+    padding-top: 0px;
+    border-radius: 19px 19px 19px 19px;
+    border-color: #BB4848;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 4px;
+}
+.btn:hover {
+    background-color: #F47D7D;
+    border-color: #F47D7D;
+}
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 6px;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.lais {
+    width: 391px;
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0px;
+}
+
+.sapatao {
+    width: 391px;
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 0px;
+}
+.noticia {
+    text-align: center;
+    background-color: white;
+    border-radius: 35px 35px 35px 35px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    padding: 40px;
+    width: 600px;
+    height: 650px;
+    margin-left: 15em;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.03);
+}
+
+.noticialais{
+    text-justify: auto;
+}
+
+h3{
+    font-size: 30;
+}
+
+
+
+
+.logo2 {
+    width: 324px;
+    height: 84px;
+}
+.fim {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    letter-spacing: 4px;   
+}
