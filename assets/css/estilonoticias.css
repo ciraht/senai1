@@ -3,7 +3,7 @@
     height: 84px;
 }
 .btn{
-    background-color: #8CCA22;
+    background-color: #BB4848;
     margin: 0 15px;
     color: white;
     font-size: 1em;
@@ -11,13 +11,13 @@
     height: 54px;
     padding-top: 0px;
     border-radius: 19px 19px 19px 19px;
-    border-color: #8CCA22;
+    border-color: #BB4848;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 4px;
 }
 .btn:hover {
-    background-color: #9CF500;
-    border-color: #9CF500;
+    background-color: #F47D7D;
+    border-color: #F47D7D;
 }
 h1 {
     color: white;
@@ -67,7 +67,7 @@ h3{
 }
 
 .fofocas{
-    background-color: #79A035;
+    background-color: #FECCCC;
     height: 1500;
 }
 
