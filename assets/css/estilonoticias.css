@@ -78,3 +78,8 @@ h3{
     color: white;
     letter-spacing: 4px;   
 }
+.inicio {
+    background-image: url(../img/jornal.png);
+    background-size: cover;
+    background-position: center;
+}
