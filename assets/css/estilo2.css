@@ -126,12 +126,12 @@ footer{
 .secao-contatoextra {
     padding-top: 20px;
     text-align: center;
-    background-color: rgb(172, 0, 0);
+    background-color: #60753B;
     color: white;
 }
 .botao-acessar {
     text-align: center;
-    background-color: #BB4848;
+    background-color: #8CCA22;
     color: white;
     margin-left: 0%;
     border-color: rgba(255, 255, 255, 0);
@@ -140,7 +140,7 @@ footer{
     margin-bottom: 5px;
 }
 .botao-acessar:hover {
-    color: #F47D7D;
+    color: #9CF500;
 }
 
 
