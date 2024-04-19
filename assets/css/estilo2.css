@@ -84,11 +84,11 @@ footer{
     padding-bottom: 10px;
 }
 .botao-pesquisa {
-    background-color: #8CCA22;
+    background-color: #BB4848;
     color: white;
 }
 .botao-pesquisa:hover {
-    color: #9CF500;
+    color: #F47D7D;
 }
 .lupa-pesquisa {
     height: 23px;
