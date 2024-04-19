@@ -2,6 +2,11 @@
     width: 300px;
     height: 84px;
 }
+.inicio {
+    background-image: url(../img/senaizika.png);
+    background-size: cover;
+    background-position: center;
+}
 .btn{
     background-color: #BB4848;
     margin: 0 15px;
